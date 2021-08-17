@@ -1,0 +1,10 @@
+.board-game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 320px;
+    height: 608px;
+    background-color: var(--color-pomb-and-power);
+}
